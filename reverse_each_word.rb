@@ -12,6 +12,6 @@ end
 
 
 #binding.pry
-a
+return a
 
 end #Ends the method
