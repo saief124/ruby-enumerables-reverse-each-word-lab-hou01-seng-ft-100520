@@ -12,6 +12,6 @@ end
 # c=a.to_join(" ")
 
 #binding.pry
-puts a
+a.join(" ")
 
 end #Ends the method
