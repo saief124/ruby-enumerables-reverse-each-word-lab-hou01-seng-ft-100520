@@ -2,16 +2,16 @@
 def reverse_each_word(str)
 b=[]
 a=[]
-#c=""
+c=""
 b=str.split(" ")
 i=0
 while i<b.length do
   a[i]=b[i].reverse
 i +=1
 end
-
+ c=a.to_sjoin(" ")
 
 #binding.pry
-return a
+return c
 
 end #Ends the method
