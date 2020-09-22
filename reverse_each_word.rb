@@ -9,7 +9,7 @@ while i<b.length do
   a[i]=b[i].reverse
 i +=1
 end
- c=a.to_sjoin(" ")
+ c=a.to_join(" ")
 
 #binding.pry
 return c
