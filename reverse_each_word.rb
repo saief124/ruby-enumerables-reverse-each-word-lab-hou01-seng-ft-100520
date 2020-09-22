@@ -12,6 +12,6 @@ end
 
 c=a.join(" ") #joins the array back into a string
 
-b.collect { |e|  }
+b.collect { |e| e.reverse }
 
 end #Ends the method
