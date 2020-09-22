@@ -7,7 +7,7 @@ b=str.split(" ")
 i=0
 while i<b.length do
   a[i]=b[i].reverse
-
+i +=1
 end
 
 
