@@ -4,7 +4,11 @@ b=[]
 a=[]
 #c=""
 b=str.split(" ")
-a=b.reverse
+i=0
+while i<b.length do
+  a[i]=b[i].reverse
+
+end
 
 
 #binding.pry
