@@ -8,7 +8,6 @@ a=b.reverse
 
 
 #binding.pry
+a
 
-
-return a
-end
+end #Ends the method
