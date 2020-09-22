@@ -4,7 +4,7 @@ b=[]
 a=[]
 #c=""
 b=str.split(" ")
-a=e.reverse
+a=b.reverse
 
 
 #binding.pry
