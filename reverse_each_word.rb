@@ -1,4 +1,4 @@
-require 'pry'
+
 def reverse_each_word(str)
 b=[]
 a=[]
@@ -12,6 +12,6 @@ end
 # c=a.to_join(" ")
 
 c=a.join(" ")
-binding.pry
+
 
 end #Ends the method
