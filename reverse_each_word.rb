@@ -11,7 +11,7 @@ i +=1
 end
 # c=a.to_join(" ")
 
-a.join(" ")
+c=a.join(" ")
 binding.pry
 
 end #Ends the method
