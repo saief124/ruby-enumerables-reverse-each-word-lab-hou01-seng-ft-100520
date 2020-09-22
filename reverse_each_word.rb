@@ -7,10 +7,14 @@ b=str.split(" ")
 
 
 b.each do |e|
-a= e.reverse
+i=0
+  while i<b.length do
+a[i]= e.reverse
+i += 1
+end
 #binding.pry
-return a
+
 end
 
-
+return a
 end
